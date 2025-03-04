@@ -17,4 +17,6 @@ rm -rf -> remove de forma recursiva e forçada todos os diretórios
 8. git status
 9. volta para o passo 3.
 
+Teste
+
 
