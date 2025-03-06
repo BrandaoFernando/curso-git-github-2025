@@ -3,3 +3,21 @@
 um curso para iniciantes aprenderem a trabalhar com versionamento de códigos e repositorios remotos com git hub. alem disso, vamos trabalhar com git flow ao final do curso, visual studio code. 
 
 Confira tudo o que temos no nosso youtube
+
+___
+
+Fluxo de trabalho Git Local:
+
+1. git checkout -b <nova branch>
+2. cria ou atualiza arquivos
+3. git status
+4. git add .
+5. git status
+6. git add "arquivos"
+7. git status
+8. git commit -m "nova mensagem"
+9. git push origin <nova branch>
+10. abrir pull request no git hub da branch fork para a main do projeto original
+11. excluir <nova branch> origin
+12. git checkout main
+13. git branch -d <nova branch>
